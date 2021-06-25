@@ -1,0 +1,13 @@
+C:\dump\CITest\UnitTestProject1\bin\Release\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\dump\CITest\UnitTestProject1\bin\Release\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\dump\CITest\UnitTestProject1\bin\Release\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\dump\CITest\UnitTestProject1\bin\Release\netcoreapp2.0\UnitTestProject1.deps.json
+C:\dump\CITest\UnitTestProject1\bin\Release\netcoreapp2.0\UnitTestProject1.runtimeconfig.json
+C:\dump\CITest\UnitTestProject1\bin\Release\netcoreapp2.0\UnitTestProject1.runtimeconfig.dev.json
+C:\dump\CITest\UnitTestProject1\bin\Release\netcoreapp2.0\UnitTestProject1.dll
+C:\dump\CITest\UnitTestProject1\bin\Release\netcoreapp2.0\UnitTestProject1.pdb
+C:\dump\CITest\UnitTestProject1\obj\Release\netcoreapp2.0\UnitTestProject1.csproj.CoreCompileInputs.cache
+C:\dump\CITest\UnitTestProject1\obj\Release\netcoreapp2.0\UnitTestProject1.AssemblyInfoInputs.cache
+C:\dump\CITest\UnitTestProject1\obj\Release\netcoreapp2.0\UnitTestProject1.AssemblyInfo.cs
+C:\dump\CITest\UnitTestProject1\obj\Release\netcoreapp2.0\UnitTestProject1.dll
+C:\dump\CITest\UnitTestProject1\obj\Release\netcoreapp2.0\UnitTestProject1.pdb
